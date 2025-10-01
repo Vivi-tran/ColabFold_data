@@ -1,2 +1,0 @@
-2025-09-30 09:17:06,084 INFO     Starting extraction: src_dir=Jobs/ColabFold/5301036, dest_dir=a3m_out/L_1_out, extract_base=Jobs/ColabFold/5301036/extracted
-2025-09-30 09:17:06,085 INFO     Finished. Processed 0 zip(s), bad_zip_count=0, total_a3m_found=0, copied=0
